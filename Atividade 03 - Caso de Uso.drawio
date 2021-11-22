@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T21:16:48.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="TmdaefK5UwaNgyq_Kye2" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T21:17:16.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Pwk-kvndHQAX-DSU4SHs" version="15.8.3" type="github">
   <diagram id="bXOPdAX9LjC5gCEiIVEe" name="Page-1">
-    <mxGraphModel dx="723" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="YqHG3YTXAIpPQzGmgxSc-3" value="Pressiona &quot;cadastrar aluguel&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YqHG3YTXAIpPQzGmgxSc-4" value="Clínica Veterinária" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="70" width="110" height="20" as="geometry" />
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-4" value="App de aluguel de temas de festa" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YqHG3YTXAIpPQzGmgxSc-5" value="Mostra página para preenchimento das informações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="275" width="140" height="80" as="geometry" />
