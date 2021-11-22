@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T21:05:47.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.3" etag="X7dD6DmUx0bBHt8NbCzQ" type="github"><diagram id="bXOPdAX9LjC5gCEiIVEe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T21:16:00.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ZQHDz5nGsb5sK0TbPuso" version="15.8.3" type="github">
+  <diagram id="bXOPdAX9LjC5gCEiIVEe" name="Page-1">
+    <mxGraphModel dx="868" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-2" value="" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="510" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-3" value="Pressiona &quot;cadastrar aluguel&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-4" value="Clínica Veterinária" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-5" value="Mostra página para preenchimento das informações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="275" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-6" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-3" target="YqHG3YTXAIpPQzGmgxSc-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-9" value="Inserir valor de desconto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-10" value="Extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-9" target="YqHG3YTXAIpPQzGmgxSc-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="sourcePoint" />
+            <mxPoint x="740" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-23" target="YqHG3YTXAIpPQzGmgxSc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-23" target="YqHG3YTXAIpPQzGmgxSc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-23" target="YqHG3YTXAIpPQzGmgxSc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-23" value="Secretária" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-28" value="Abre o app" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-30" value="Pressiona &quot;cadastrar tema&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-31" value="Mostra página para preenchimento das informações sobre tema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-33" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-30" target="YqHG3YTXAIpPQzGmgxSc-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="205" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-35" value="Calcula valor e repassa ao cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="395" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YqHG3YTXAIpPQzGmgxSc-36" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqHG3YTXAIpPQzGmgxSc-5" target="YqHG3YTXAIpPQzGmgxSc-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="325" as="sourcePoint" />
+            <mxPoint x="490" y="325" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
