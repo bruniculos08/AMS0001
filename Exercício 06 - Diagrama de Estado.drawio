@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T19:13:30.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="sLWIngwLNUEVu9uTlJOM" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T19:18:46.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="2FcyCiSVpAmNNa5OgaGS" version="16.5.4" type="github">
   <diagram id="kfinT-BCKHiaZusBY4Pr" name="Page-1">
-    <mxGraphModel dx="868" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,8 @@
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="80QCjHkP1U3Y7Aqf0_-P-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="740" y="235" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="140" height="60" as="geometry" />
+          <mxGeometry x="30" y="10" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="80QCjHkP1U3Y7Aqf0_-P-5" target="80QCjHkP1U3Y7Aqf0_-P-10">
           <mxGeometry relative="1" as="geometry" />
@@ -28,13 +25,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="225" y="300" />
-              <mxPoint x="245" y="300" />
+              <mxPoint x="300" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-17" value="cliente não reservou antes&lt;br&gt;de utilizar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80QCjHkP1U3Y7Aqf0_-P-14">
           <mxGeometry x="0.2909" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Apartamento livre&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
@@ -67,14 +64,29 @@
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="80QCjHkP1U3Y7Aqf0_-P-13" target="80QCjHkP1U3Y7Aqf0_-P-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="400" />
-              <mxPoint x="60" y="250" />
+              <mxPoint x="30" y="400" />
+              <mxPoint x="30" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-19" value="cliente não pagou&lt;br&gt;a estadia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80QCjHkP1U3Y7Aqf0_-P-18">
           <mxGeometry x="0.1176" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80QCjHkP1U3Y7Aqf0_-P-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="80QCjHkP1U3Y7Aqf0_-P-13" target="80QCjHkP1U3Y7Aqf0_-P-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="350" />
+              <mxPoint x="140" y="350" />
+              <mxPoint x="140" y="310" />
+              <mxPoint x="190" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80QCjHkP1U3Y7Aqf0_-P-26" value="acabou o tempo de&lt;br&gt;estadia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80QCjHkP1U3Y7Aqf0_-P-25">
+          <mxGeometry x="-0.13" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80QCjHkP1U3Y7Aqf0_-P-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Apartamento indisponível&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
