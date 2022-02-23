@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:18:02.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ig26A_SoM5VBmqEhO3Z0" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:19:11.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NPILIQtSiCsZ5TDY5e9Q" version="16.6.2" type="github">
   <diagram id="4MNVf7tuBf64kw4feR9f" name="Page-1">
     <mxGraphModel dx="868" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-17" target="Qjkzj_dB4ohVVPnHZtF3-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="355" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-42" value="Mensagem é respondida" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qjkzj_dB4ohVVPnHZtF3-31" vertex="1" connectable="0">
           <mxGeometry x="0.2911" y="3" relative="1" as="geometry">
@@ -64,9 +68,7 @@
             <Array as="points">
               <mxPoint x="480" y="355" />
               <mxPoint x="480" y="380" />
-              <mxPoint x="546" y="380" />
-              <mxPoint x="546" y="350" />
-              <mxPoint x="670" y="350" />
+              <mxPoint x="670" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,27 +84,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Mensagem respondida&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="410" y="470" width="140" height="60" as="geometry" />
+          <mxGeometry x="390" y="470" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qjkzj_dB4ohVVPnHZtF3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-24" target="Qjkzj_dB4ohVVPnHZtF3-32" edge="1">
+        <mxCell id="Qjkzj_dB4ohVVPnHZtF3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.683;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-24" target="Qjkzj_dB4ohVVPnHZtF3-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="509" y="600" />
+              <mxPoint x="481" y="565" />
+              <mxPoint x="480" y="565" />
+              <mxPoint x="480" y="600" />
               <mxPoint x="675" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-49" value="Mensagem é removida para a lixeira&lt;br&gt;após ser respondida" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qjkzj_dB4ohVVPnHZtF3-34" vertex="1" connectable="0">
           <mxGeometry x="-0.2589" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-24" target="Qjkzj_dB4ohVVPnHZtF3-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="451" y="630" />
-              <mxPoint x="410" y="630" />
-              <mxPoint x="410" y="775" />
+              <mxPoint x="451" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-24" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="422.5" y="560" width="115" height="10" as="geometry" />
+          <mxGeometry x="402.5" y="560" width="115" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.489;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-32" target="Qjkzj_dB4ohVVPnHZtF3-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,9 +125,7 @@
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-44" target="Qjkzj_dB4ohVVPnHZtF3-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="770" />
-              <mxPoint x="500" y="770" />
-              <mxPoint x="500" y="810" />
+              <mxPoint x="680" y="810" />
               <mxPoint x="335" y="810" />
             </Array>
           </mxGeometry>
@@ -138,9 +138,9 @@
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.686;entryY=0.017;entryDx=0;entryDy=0;strokeColor=#000000;entryPerimeter=0;" parent="1" source="Qjkzj_dB4ohVVPnHZtF3-44" target="Qjkzj_dB4ohVVPnHZtF3-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="770" />
-              <mxPoint x="820" y="770" />
-              <mxPoint x="820" y="210" />
+              <mxPoint x="740" y="810" />
+              <mxPoint x="800" y="810" />
+              <mxPoint x="800" y="210" />
               <mxPoint x="211" y="210" />
             </Array>
           </mxGeometry>
@@ -154,7 +154,7 @@
           <mxGeometry x="650" y="720" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Qjkzj_dB4ohVVPnHZtF3-55" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Mensagem é removida&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="600" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="630" y="430" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
