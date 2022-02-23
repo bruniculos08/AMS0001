@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T21:01:50.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6izFC8St6-No8SwIFuMM" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T21:03:00.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5rT3FX-LZvWw4KllX3LQ" version="16.6.3" type="github">
   <diagram id="jYjJDJiM_AItDhbpvaCf" name="Page-1">
     <mxGraphModel dx="1157" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-49" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9zoumvwDFqQen2PYw_1x-52" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Apartamento&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="820" y="210" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9zoumvwDFqQen2PYw_1x-57">
           <mxGeometry relative="1" as="geometry">
@@ -57,12 +54,6 @@
         </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-57" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="395" y="285" width="125" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="9zoumvwDFqQen2PYw_1x-64" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Apartamento disponível&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="175" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9zoumvwDFqQen2PYw_1x-70" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="940" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.503;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9zoumvwDFqQen2PYw_1x-74" target="9zoumvwDFqQen2PYw_1x-57">
           <mxGeometry relative="1" as="geometry">
