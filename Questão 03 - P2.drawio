@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T11:49:49.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wkq-hfvJe56Jkm2cgEBl" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T11:58:48.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="100qWorZKAjbK1eAelDT" version="16.6.2" type="github">
   <diagram id="ZEX48tybaz3WDPqDXiuD" name="Page-1">
-    <mxGraphModel dx="868" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3zqD0T_lnfzhav-kkuIM-74" target="3zqD0T_lnfzhav-kkuIM-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="410" />
+              <mxPoint x="420" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-84" value="Preencher campo&lt;br&gt;de CPF e senha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zqD0T_lnfzhav-kkuIM-83">
+          <mxGeometry x="-0.2769" y="-3" relative="1" as="geometry">
+            <mxPoint x="23" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-74" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-76" value=": aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3zqD0T_lnfzhav-kkuIM-85" target="3zqD0T_lnfzhav-kkuIM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-85" value="Siga: siga" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="320" width="66" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
