@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:41:23.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EfP9t9xVlJuneMqP6eK3" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:42:10.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8fdL24iMYTF2KrPCXPQv" version="16.6.2" type="github">
   <diagram id="wD0F_TNsXqtQQhN_WkA5" name="Page-1">
     <mxGraphModel dx="914" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tzvsPAz1gJnlWbKZIRWA-70" value="Apartamento está em bom estado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzvsPAz1gJnlWbKZIRWA-67">
-          <mxGeometry x="0.2277" y="1" relative="1" as="geometry">
+        <mxCell id="tzvsPAz1gJnlWbKZIRWA-71" value="Apartamento está em bom estado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzvsPAz1gJnlWbKZIRWA-67">
+          <mxGeometry x="0.1724" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
