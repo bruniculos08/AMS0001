@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T11:36:08.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yK8XrScpwe7f5rY4yjUb" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T11:37:46.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kChuKML_HHjb1kHW1H_V" version="16.6.2" type="github">
   <diagram id="ZEX48tybaz3WDPqDXiuD" name="Page-1">
     <mxGraphModel dx="1021" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -83,8 +83,17 @@
         <mxCell id="3zqD0T_lnfzhav-kkuIM-47" value="Inserir CPF e senha" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="345" y="390" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zqD0T_lnfzhav-kkuIM-50" target="3zqD0T_lnfzhav-kkuIM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3zqD0T_lnfzhav-kkuIM-50" target="3zqD0T_lnfzhav-kkuIM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3zqD0T_lnfzhav-kkuIM-50" value="CPF e&lt;br&gt;&amp;nbsp;senha válidos?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="135" height="75" as="geometry" />
+          <mxGeometry x="600" y="310" width="135" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="3zqD0T_lnfzhav-kkuIM-57" value="Realizar login abrindo&lt;br&gt;página do usuário" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="327.5" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
