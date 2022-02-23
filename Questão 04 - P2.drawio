@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:51:58.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LMB_Q2LTUqKgl8zWlJ6h" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:52:08.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="nm8eggtk_RkWFtv5c1xm" version="16.6.2" type="github">
   <diagram id="wD0F_TNsXqtQQhN_WkA5" name="Page-1">
     <mxGraphModel dx="1447" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="tzvsPAz1gJnlWbKZIRWA-87" value="Apartamento é alugado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzvsPAz1gJnlWbKZIRWA-86">
           <mxGeometry x="-0.2964" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="18" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tzvsPAz1gJnlWbKZIRWA-76" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
