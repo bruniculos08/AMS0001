@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T20:40:43.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="k_Ok9jNyKy1GtzeBAhK4" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T20:46:44.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0UL9cH6HJ-moGPMwOZAa" version="16.6.3" type="github">
   <diagram id="jYjJDJiM_AItDhbpvaCf" name="Page-1">
-    <mxGraphModel dx="1021" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,11 +79,34 @@
         <mxCell id="9zoumvwDFqQen2PYw_1x-76" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Elevador aberto&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9zoumvwDFqQen2PYw_1x-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9zoumvwDFqQen2PYw_1x-80" target="9zoumvwDFqQen2PYw_1x-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-80" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Elevador subindo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="410" y="430" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9zoumvwDFqQen2PYw_1x-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9zoumvwDFqQen2PYw_1x-84" target="9zoumvwDFqQen2PYw_1x-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9zoumvwDFqQen2PYw_1x-84" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Elevador descendo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zoumvwDFqQen2PYw_1x-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.483;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9zoumvwDFqQen2PYw_1x-90" target="9zoumvwDFqQen2PYw_1x-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="610" />
+              <mxPoint x="368" y="610" />
+              <mxPoint x="368" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9zoumvwDFqQen2PYw_1x-94" value="Elevador chegou no andar&lt;br&gt;solicitado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9zoumvwDFqQen2PYw_1x-93">
+          <mxGeometry x="-0.2722" y="-1" relative="1" as="geometry">
+            <mxPoint x="-34" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9zoumvwDFqQen2PYw_1x-90" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="550" width="125" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
