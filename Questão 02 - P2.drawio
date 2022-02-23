@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T04:17:30.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qExopUnWFQzlSu5QrZL1" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T04:18:01.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Hxh-rvXbc4jtmTVo8Z80" version="16.6.1" type="github">
   <diagram id="hG0S3P9mw6wppGRl6Zj7" name="Page-1">
-    <mxGraphModel dx="755" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,25 +18,6 @@
         </mxCell>
         <mxCell id="IvriwTNXwanx6Q1rdoZe-8" value="Levantar da cama" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IvriwTNXwanx6Q1rdoZe-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="627.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IvriwTNXwanx6Q1rdoZe-26" target="IvriwTNXwanx6Q1rdoZe-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-26" value="Aplicar exame" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="500" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IvriwTNXwanx6Q1rdoZe-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317.5" y="732.4999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-28" value="Lançar nota do exame de determinado aluno" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="592.5" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvriwTNXwanx6Q1rdoZe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IvriwTNXwanx6Q1rdoZe-34" target="IvriwTNXwanx6Q1rdoZe-43">
           <mxGeometry relative="1" as="geometry" />
