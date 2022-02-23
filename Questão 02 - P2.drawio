@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T04:17:12.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2Uf8rrPSFKq61W6heTAj" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T04:17:30.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qExopUnWFQzlSu5QrZL1" version="16.6.1" type="github">
   <diagram id="hG0S3P9mw6wppGRl6Zj7" name="Page-1">
     <mxGraphModel dx="755" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -94,11 +94,11 @@
         <mxCell id="IvriwTNXwanx6Q1rdoZe-48" value="Verificar-se &lt;br&gt;tem aula&lt;br&gt;às 09:20" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="500" y="507.5" width="135" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="IvriwTNXwanx6Q1rdoZe-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="IvriwTNXwanx6Q1rdoZe-51" target="IvriwTNXwanx6Q1rdoZe-84">
+        <mxCell id="IvriwTNXwanx6Q1rdoZe-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IvriwTNXwanx6Q1rdoZe-51" target="IvriwTNXwanx6Q1rdoZe-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="568" y="740" />
-              <mxPoint x="688" y="740" />
+              <mxPoint x="598" y="600" />
+              <mxPoint x="714" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
